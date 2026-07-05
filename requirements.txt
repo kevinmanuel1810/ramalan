@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+plotly
+statsmodels
+pmdarima
+prophet
+xgboost
+lightgbm
+scikit-learn
+openpyxl
+xlsxwriter
+sqlalchemy
+pymysql
